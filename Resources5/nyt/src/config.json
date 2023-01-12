@@ -1,0 +1,4 @@
+{
+  "nytapi": "https://api.nytimes.com/svc/topstories/v2/",
+  "apikey" : "use your own api key"
+}
